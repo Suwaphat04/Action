@@ -1,0 +1,11 @@
+D:\unit test\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+D:\unit test\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+D:\unit test\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+D:\unit test\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\unit test\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+D:\unit test\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+D:\unit test\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\unit test\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+D:\unit test\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+D:\unit test\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+D:\unit test\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
